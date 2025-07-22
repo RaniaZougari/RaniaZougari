@@ -1,5 +1,14 @@
 ## Hi there 👋
+My name is Rania, and I'm an Ensimag trained computer science intrested in Data Science and Mahcine Learning engineering!
 
+I'm continuously improving my skills by working on projects, reading papers, and learning from the community.
+
+🔭 I’m currently working on ...
+- Building machine learning models for predictive analytics and natural language processing.
+- Experimenting with deep learning (CNNs, RNNs, Transformers)  
+
+📫 **Let's connect!**  
+If you're working on something interesting or want to collaborate, feel free to reach out!
 <!--
 **RaniaZougari/RaniaZougari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
